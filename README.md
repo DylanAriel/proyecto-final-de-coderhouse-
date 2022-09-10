@@ -1,11 +1,11 @@
-## Villafañe Wifi Empresa ISP
+## DAP & Asociados
 
-**Alexis Ronaldo Franco**
+**Altamiranda Prieto Dylan Ariel**
 **Proyecto Final Desarrollo Web**
 
-Elegí hacer este proyecto ya que es un mundo que lo tengo bastante entendido, utilicé el nombre de una empresa real pero no así la información que contiene el proyecto.
+Realize este proyecto sobre un estudio juridico ya que actualmente me encuentro en los ultimos años de la carrera de derecho y me gustaria utilizar los conocimientos de programacion para impulsar mi carrera como abogado.
 
-Las tecnologías que usé para este proyecto fueron Bootstrap para poder hacer que mi navbar sea responsive y Sass.
+utilice boostrap para hacer responsive la navbar entre otras cosas como algunas imagenes.
 
 **Profesor: Cesar Giminez Lascano**
-**Tutora: Melisa Ferreyra**
+**Tutor: Jose Luis Koller**
